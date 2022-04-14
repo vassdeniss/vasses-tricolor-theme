@@ -13,9 +13,17 @@
         "url": "https://www.linkedin.com/in/denis-vasilev-vassdeniss/"
     },
     "repository": {
-        "url": "https://github.com/vassdeniss/vasses-tricolor-theme.git",
+        "url": "https://github.com/vassdeniss/vasses-tricolor-theme",
         "type": "git"
     },
+    "keywords": [
+        "theme",
+        "red",
+        "orange",
+        "green",
+        "dark",
+        "vassdeniss"
+    ],
     "categories": [
         "Themes"
     ],

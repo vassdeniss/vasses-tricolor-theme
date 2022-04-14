@@ -1,0 +1,1 @@
+This is a custom theme I made and one I use on visual studio mainly, just ported on VS code. It is based on my three favourite colors. Nothing fancy here just a simple colored theme. 
