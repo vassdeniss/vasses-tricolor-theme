@@ -1,0 +1,31 @@
+{
+    "name": "vasses-tricolor-theme",
+    "displayName": "Vasses TriColor Theme",
+    "description": "My own custom theme I use in visual studio made for VS Code based around 3 accent colors - red, orange, green",
+    "publisher": "vassdeniss",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "author": {
+        "name": "Denis Vasilev",
+        "email": "vassdeniss@gmail.com",
+        "url": "https://www.linkedin.com/in/denis-vasilev-vassdeniss/"
+    },
+    "repository": {
+        "url": "https://github.com/vassdeniss/vasses-tricolor-theme.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TriColor Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vasses-tricolor-theme.json"
+            }
+        ]
+    }
+}
